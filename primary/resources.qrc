@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../HTYFileManager-master/icon.png</file>
+    </qresource>
+</RCC>
